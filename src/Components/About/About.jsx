@@ -3,7 +3,7 @@ import "./About.css";
 
 function About() {
   return (
-    <div className="h-[500px] pt-40">
+    <div className="h-[500px] pt-40 mb-[100px] md:mb-[100px]">
       <div className="flex flex-col w-[60%] mx-auto">
         <div className="text-black flex flex-col justify-between space-y-10">
           <h1 className="text-4xl">
