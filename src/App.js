@@ -4,6 +4,7 @@ import Hero from "./Components/Hero/Hero";
 import Navbar from "./Components/Navbar/Navbar";
 import Product from "./Components/Product/Product";
 import ProductsImg from "./Components/ProductsImg/ProductsImg";
+import Shop from "./Components/Shop/Shop";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <About />
       <Product />
       <ProductsImg />
+      <Shop />
     </div>
   );
 }

@@ -14,7 +14,7 @@ function ProductsImg() {
   return (
     <div className="w-full bg-[#FFFFFF] pb-10 mt-[100px]">
       <div className="w-[80%] bg-[#FFFFFF] m-auto">
-        <div className="grid sm:grid-cols-1 lg:grid-cols-3 gap-10 text-center">
+        <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 text-center">
           <div className="flex flex-col rounded bg-[#FFFFFF] shadow-lg shadow-zinc-500/40">
             <div className="pb-10">
               <div>
