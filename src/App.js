@@ -5,6 +5,7 @@ import Navbar from "./Components/Navbar/Navbar";
 import Product from "./Components/Product/Product";
 import ProductsImg from "./Components/ProductsImg/ProductsImg";
 import Shop from "./Components/Shop/Shop";
+import Stories from "./Components/Stories/Stories";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Product />
       <ProductsImg />
       <Shop />
+      <Stories />
     </div>
   );
 }
