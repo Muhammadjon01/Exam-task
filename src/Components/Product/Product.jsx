@@ -14,8 +14,8 @@ function Product() {
         <div>
           <img className="w-full" src={img2} alt="/" />
           <h3 className="my-3">Golden Designers Mug</h3>
-          <span className="inline">$50.00 </span>
-          <span className="" style={{ textDecoration: "line-through" }}>
+          <span className="inline text-[#A25F4B]">$50.00 </span>
+          <span className="" style={{ textDecoration: "line-through", color:"gray" }}>
             $ 69.00 USD
           </span>
         </div>

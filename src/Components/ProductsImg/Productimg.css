@@ -1,0 +1,13 @@
+.line h2 {
+  width: 80%;
+  text-align: center;
+  border-bottom: 2px solid #ececed;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+  margin: auto;
+}
+
+.line h2 span {
+  background: #fff;
+  padding: 0 10px;
+}
