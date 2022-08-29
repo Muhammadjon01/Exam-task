@@ -1,5 +1,6 @@
 import "./App.css";
 import About from "./Components/About/About";
+import Footer from "./Components/Footer/Footer";
 import Hero from "./Components/Hero/Hero";
 import Navbar from "./Components/Navbar/Navbar";
 import Product from "./Components/Product/Product";
@@ -17,6 +18,7 @@ function App() {
       <ProductsImg />
       <Shop />
       <Stories />
+      <Footer />
     </div>
   );
 }
